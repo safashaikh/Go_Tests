@@ -18,3 +18,5 @@ func assertStrings(t testing.TB, got, want string) {
 		t.Errorf("got %q want %q", got, want)
 	}
 }
+
+// hello
